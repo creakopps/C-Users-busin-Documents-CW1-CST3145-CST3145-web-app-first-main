@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Group 4
+
 Henry ENENDU- M00718598
 
 You can use the [editor on GitHub](https://github.com/gbriedis/CST3145-web-app-first-groupwork/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
